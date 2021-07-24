@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tobymac208
 - 👀 I’m interested in full-stack development.
-- 🌱 I’m currently learning python and getting up to date with JavaScript.
+- 🌱 I’m currently learning Python and getting up to date with JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
