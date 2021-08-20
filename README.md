@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tobymac208
-- 👀 I’m interested in full-stack development.
-- 🌱 I’m currently learning Python and getting up to date with JavaScript.
+- 👀 I’m interested in back-end.
+- 🌱 I’m currently learning Python and getting up to date with MySQL.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me niklasfernandez97@gmail.com
 
 <!---
 tobymac208/tobymac208 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
