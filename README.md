@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tobymac208
+- 👋 Hi, I’m Nik
 - 👀 I’m interested in back-end.
 - 🌱 I’m currently learning Python and getting up to date with MySQL.
 - 💞️ I’m looking to collaborate on ...
