@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning and building in the AI Engineering field.
 - 💞️ I’m looking to collaborate on any projects related to full-stack development or Linux.
 - 📫 How to reach me niklasfernandez97@gmail.com
-- You can see some accomplishments on my Sololearn account https://www.sololearn.com/profile/1231709 and on Bitbucket https://bitbucket.org/whomadewho86/
+- You can see some accomplishments on my Sololearn account: https://www.sololearn.com/profile/1231709.
 
 <!---
 tobymac208/tobymac208 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
